@@ -12,5 +12,6 @@
 
     <modules>
         <module>zkclient-demo</module>
+        <module>curator-demo</module>
     </modules>
 </project>
