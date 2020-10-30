@@ -12,7 +12,10 @@
 	<artifactId>curator-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>curator-demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>
+		Curator 是 Netflix 公司开源的一套 zk 客户端框架，与 ZkClient 一样，其也封装了 zk 原生 API。
+		其目前已经成为 Apache 的顶级项目。同时，Curator 还提供了一套易用性、可读性更 强的 Fluent 风格的客户端 API 框架。
+	</description>
 
 	<properties>
 		<java.version>1.8</java.version>
